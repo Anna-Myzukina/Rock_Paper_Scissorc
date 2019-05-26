@@ -1,4 +1,4 @@
-# Rock_Paper_Scissorc
+# Rock_Paper_Scissors
 Web Development 101 project
 What is rock paper scissors game ? https://www.wikihow.com/Play-Rock,-Paper,-Scissors
 
